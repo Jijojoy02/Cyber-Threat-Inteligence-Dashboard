@@ -1,4 +1,4 @@
-# CTI Dashboard — Stable (Flask + React + SQLite, VirusTotal & AbuseIPDB)
+# CTI Dashboard (Flask + React + SQLite, VirusTotal & AbuseIPDB)
 
 A stable, minimal CTI dashboard:
 - **Backend:** Flask + SQLite (persists lookups)
